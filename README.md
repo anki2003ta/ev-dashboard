@@ -35,7 +35,7 @@ An interactive **Electric Vehicle (EV) Analytics Dashboard** built with **React*
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/analytical-dashboard.git
+git clone https://github.com/yourusername/ev-dashboard.git
 cd ev-dashboard
 ```
 ### 2️⃣ Install Dependencies
