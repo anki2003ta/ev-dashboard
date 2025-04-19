@@ -4,7 +4,7 @@
 ![EV Dashboard Preview](https://github.com/user-attachments/assets/01ff6e9a-774b-4d13-bdac-6304eb6de34f)
 
 ## 🌐 Live Demo  
-🔗 [Visit the Dashboard](https://your-deployed-link.com) <!-- Replace with your actual deployment URL -->
+🔗 [Visit the Dashboard](https://ev-dashboard-xi.vercel.app/) <!-- Replace with your actual deployment URL -->
 
 ---
 
