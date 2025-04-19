@@ -49,7 +49,7 @@ npm run dev
 The app will be live at: http://localhost:5173/
 ## 📁 Project Structure
 ```bash
-📂 analytical-dashboard
+📂 ev-dashboard
 ├── 📁 src
 │   ├── 📁 assets        # Images and static content
 │   ├── 📁 components    # Reusable UI elements
